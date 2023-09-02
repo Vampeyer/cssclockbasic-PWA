@@ -1,5 +1,3 @@
-
-
 var dialLines = document.getElementsByClassName('diallines');
 var clockEl = document.getElementsByClassName('clock')[0];
 
